@@ -29,7 +29,7 @@ Distance sensors
 → ESP32 microcontroller
 → Obstacle-processing logic
 → Left or right vibration motor
-
+```text
 ## Hardware
 
 SenseCart uses the following main electronic components:
@@ -79,7 +79,6 @@ This allows SenseCart to estimate:
 
 ## System Architecture
 
-```text
 VL53L1X
 VL53L0X
 TF-Nova
