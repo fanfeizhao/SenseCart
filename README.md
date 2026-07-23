@@ -24,12 +24,12 @@ SenseCart uses several distance sensors positioned around the cart.
 
 The system follows this process:
 
-```text
+
 Distance sensors
 → ESP32 microcontroller
 → Obstacle-processing logic
 → Left or right vibration motor
-```text
+
 ## Hardware
 
 SenseCart uses the following main electronic components:
